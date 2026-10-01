@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-brand-blue: #1e40af;
+  --color-brand-gray: #6b7280;
+
+  /* Typography */
+  --font-sans: "Inter", sans-serif;
+
+  /* Spacing */
+  --spacing-72: 18rem;
+  --spacing-84: 21rem;
+  --spacing-96: 24rem;
+}
